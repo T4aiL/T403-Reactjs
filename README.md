@@ -14,7 +14,7 @@
 
 ```
 ### --------Tutorials
-(The introduction to React you've been missing - Kent C. Dodds)[https://youtu.be/SAIdyBFHfVU]
+(https://youtu.be/SAIdyBFHfVU)[The introduction to React you've been missing - Kent C. Dodds]
 
 ### --------Links
 https://github.com/T4aiL/T402-Modular-js
