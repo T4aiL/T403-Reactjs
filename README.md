@@ -19,7 +19,7 @@
 [The introduction to React you've been missing - Kent C. Dodds](https://youtu.be/SAIdyBFHfVU)
 
 ### --------Links
-https://github.com/T4aiL/T402-Modular-js
+https://github.com/T4aiL/T407-Reactjs
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
