@@ -1,11 +1,12 @@
 # T403 (2020.09.21) - Reactjs
 ## -------INFO
 ```
-1. Higher order functions 
-2. Reactjs - intro
-3. npx create-react-app .
-4. Components
-5. State
+1. MVC
+2. Higher order functions 
+3. Reactjs - intro
+4. npx create-react-app .
+5. Components
+6. State
 ```
 
 ### --------ZAD
