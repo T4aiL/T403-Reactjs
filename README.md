@@ -1,13 +1,17 @@
 # T408 - Reactjs
 ## -------INFO
 ```
-1. MVC
-2. Higher order functions 
+1. MVC, SPA
+2. Higher order functions \
+3. Module bundler (Webpack, Parcel)
 3. Reactjs - intro
 4. npx create-react-app .
 5. Components
 6. State
 ```
+
+Node.js
+https://nodejs.org/en/download/
 
 ### --------ZAD
 ```
