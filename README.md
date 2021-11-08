@@ -1,4 +1,4 @@
-# T403 (2020.09.21) - Reactjs
+# T408 - Reactjs
 ## -------INFO
 ```
 1. MVC
@@ -19,7 +19,7 @@
 [The introduction to React you've been missing - Kent C. Dodds](https://youtu.be/SAIdyBFHfVU)
 
 ### --------Links
-https://github.com/T4aiL/T407-Reactjs
+https://github.com/T4aiL/T408-Reactjs
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
