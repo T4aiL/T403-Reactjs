@@ -17,10 +17,11 @@ React:
 - root
 - coomponents
 - styles
-- dynamic values
+- dynamic values (hooks)
 - props
 - conditional renders
 - json-server (npx json-server --watch data/db.json --port 8000)
+- custom hook
 
 ### --------ZAD
 ```
