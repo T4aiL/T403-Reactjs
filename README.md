@@ -2,7 +2,7 @@
 ## -------INFO
 ```
 1. MVC, SPA
-2. Higher order functions \
+2. Higher order functions
 3. Module bundler (Webpack, Parcel)
 3. Reactjs - intro
 4. npx create-react-app .
