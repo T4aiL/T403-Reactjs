@@ -20,6 +20,7 @@ React:
 - dynamic values
 - props
 - conditional renders
+- json-server (npx json-server --watch data/db.json --port 8000)
 
 ### --------ZAD
 ```
