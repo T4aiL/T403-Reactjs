@@ -13,6 +13,14 @@
 Node.js
 https://nodejs.org/en/download/
 
+React:
+- root
+- coomponents
+- styles
+- dynamic values
+- props
+- conditional renders
+
 ### --------ZAD
 ```
 
