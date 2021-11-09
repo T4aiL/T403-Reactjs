@@ -22,6 +22,7 @@ React:
 - conditional renders
 - json-server (npx json-server --watch data/db.json --port 8000)
 - custom hook
+- React router
 
 ### --------ZAD
 ```
