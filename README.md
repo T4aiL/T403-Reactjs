@@ -18,9 +18,12 @@ https://nodejs.org/en/download/
 ```cmd
 node -v
 npm -v
+npm init -y
 npm install moment
 npm install node-sass
 ```
+
+
 React:
 - root
 - coomponents
