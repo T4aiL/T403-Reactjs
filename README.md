@@ -21,6 +21,8 @@ npm -v
 npm init -y
 npm install moment
 npm install node-sass
+
+npx create-react-app my-react // .
 ```
 
 
