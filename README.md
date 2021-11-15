@@ -47,7 +47,13 @@ ZADT40802 - Przygotuj pusty projekt React i usuń zbędne elementy (wyświetl ty
 
 ZADT40803 - Przygotuj SPA wyswietlającą listę użytkowników z pliku json lub ogólnodostępnego API
 
-ZADT40804 - Przygotuj strone HTML uzywajaca arkusz CSS przetranspilowany z SCC oraz wykorzystujaca dwa moduly: moment (do sformatowania daty i godziny jako 16.11.2021 >>> 10:00) oraz upper-case (zamieniajace tekst wprowadzony do inputa na wielkie litery)
+ZADT40804 - Przygotuj strone HTML uzywajaca arkusz CSS przetranspilowany z SCSS
+
+oraz wykorzystujaca dwa nastépujace moduly: 
+
+- 'moment' (do sformatowania daty i godziny w nastépujácy sposób 16.11.2021 >>> 10:00) 
+- oraz 'upper-case' (zamieniajace tekst wprowadzony do inputa na wielkie litery - 
+wprowadzamy tekst do inputa i jest on zamieniany na Duze litery w czasie rzeczywistym)
 
 ```
 ### --------Tutorials
