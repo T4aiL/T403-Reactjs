@@ -25,6 +25,8 @@ npm install node-sass
 npx create-react-app my-react // .
 ```
 
+react min:
+![React min](React.PNG)
 
 React:
 - root
