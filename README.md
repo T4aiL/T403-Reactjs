@@ -37,9 +37,11 @@ React:
 
 ### --------ZAD
 ```
-ZADT40801 Przygotuj pusty projekt React i usuń zbędne elementy (wyświetl tylko Hallo world)
+ZADT40801 Przygotuj stronę wyświetlającą aktualną datę w formacie DD~MM~YYYY wykorzystując moment.js oraz używającą przekonwertowany plik scss
 
-ZADT40802 Przygotuj SPA wyswietlającą listę użytkowników z pliku json lub ogólnodostępnego API
+ZADT40802 Przygotuj pusty projekt React i usuń zbędne elementy (wyświetl tylko Hallo world)
+
+ZADT40803 Przygotuj SPA wyswietlającą listę użytkowników z pliku json lub ogólnodostępnego API
 
 ```
 ### --------Tutorials
