@@ -10,9 +10,17 @@
 6. State
 ```
 
+
+
 Node.js
 https://nodejs.org/en/download/
 
+```cmd
+node -v
+npm -v
+npm install moment
+npm install node-sass
+```
 React:
 - root
 - coomponents
